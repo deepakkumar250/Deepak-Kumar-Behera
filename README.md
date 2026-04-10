@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Deepak%20Kumar%20Behera&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+
 
 <!-- 🔥 PREMIUM BANNER -->
 <p align="center">
@@ -78,18 +76,6 @@
 ✔ Responsive UI  
 ✔ Personal branding  
 🔗 https://github.com/yourusername/project-link  
-
----
-
-## 🐍 Contribution Snake Animation
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=blue&style=flat"/>
-</p>
 
 ---
 
