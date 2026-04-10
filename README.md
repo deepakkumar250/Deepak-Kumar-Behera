@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/deepakkumar250"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
